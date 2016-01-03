@@ -1,9 +1,25 @@
-body{
-  text-align: left;
-  background-color: #cc3399
+body {
+
+   font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  color: white;
+}
+
+body {
+  background-color: black;
+ 
+}
+
+body {
+  margin: 5px auto
 }
 
 img {
-  width: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
- 
+
